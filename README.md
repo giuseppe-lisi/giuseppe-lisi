@@ -41,7 +41,7 @@ Una web app full-stack per la gestione di un db di una piattaforma musicale con 
 * **Sicurezza:** Implementazione di un layer di sicurezza dedicato tramite **Spring Security** per l'accesso e la gestione amministrativa.
 * **Frontend:** Interfaccia utente dinamica e reattiva sviluppata in **React**, che comunica con i REST Controller del backend tramite **Axios**.
 
-### 💬 [Ping - Realtime Chat App](https://github.com/giuseppe-lisi/triplet)
+### 💬 [Ping - Realtime Chat App](https://github.com/giuseppe-lisi/ping-fullstack-chat-app-realtime)
 Un'applicazione di messaggistica stile forum, come alternativa alle comuni app di messaging
 * **Realtime:** Gestione asincrona degli endpoint e della messaggistica istantanea tramite **Node.js**, **Express** e **Socket.io**.
 * **Data & State:** Autenticazione utenti e persistenza delle chat su database **MongoDB**. Gestione dello stato globale del frontend tramite **Zustand**.
